@@ -1,0 +1,16 @@
+{
+  "name": "tarefa-03",
+  "version": "1.0.0",
+  "description": "Exercicio de fixação do curso de NodeJS utilizando express.",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js localhost 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus-Vinicios",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
