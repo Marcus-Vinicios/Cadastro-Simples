@@ -37,9 +37,9 @@ npm install
 ## Utilização
 Após concluir a instalação, você pode executar o servidor localmente com o seguinte comando:
 ```bash
-npm start
+npm run server
 ```
-Abra o seu navegador e acesse a seguinte URL: `http://localhost:3000`. Pronto! Agora você está vendo o projeto em execução.
+Abra o seu navegador e acesse a seguinte URL: `http://localhost:5000`. Pronto! Agora você está vendo o projeto em execução.
 ## Contato
 
 Se tiver alguma dúvida ou sugestão relacionada ao projeto, sinta-se à vontade para entrar em contato:
